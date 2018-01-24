@@ -1,8 +1,0 @@
-This is another file created in the Local Repo - not in remote
-
-Created in C:\TrainingGpeade\Elgar
-
-** I added this line to trigger a change to this file in Local Repo **
-
-** Expected outcome **
-should appear in the changed files when git status is proformed
